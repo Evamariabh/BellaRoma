@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701211492658,
+  "timestamp": 1701213819887,
   "index": "https://Evamariabh.github.io/BellaRoma/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "https://Evamariabh.github.io/BellaRoma/568.a0c115d94bbd05cc.js",
         "https://Evamariabh.github.io/BellaRoma/favicon.ico",
         "https://Evamariabh.github.io/BellaRoma/index.html",
-        "https://Evamariabh.github.io/BellaRoma/main.486251bedda9e22d.js",
+        "https://Evamariabh.github.io/BellaRoma/main.384810d07d15c2f7.js",
         "https://Evamariabh.github.io/BellaRoma/manifest.webmanifest",
         "https://Evamariabh.github.io/BellaRoma/polyfills.5c0e5680c3cbc807.js",
         "https://Evamariabh.github.io/BellaRoma/runtime.ce27072ee75d7745.js",
@@ -127,8 +127,8 @@
     "https://Evamariabh.github.io/BellaRoma/assets/quienes.jpg": "9036ab78f1027f62e9eb4d05f4fd7c849f9b5dd9",
     "https://Evamariabh.github.io/BellaRoma/assets/sets.jpg": "7477ee882e8d405a3e0025059ed03994c377479d",
     "https://Evamariabh.github.io/BellaRoma/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://Evamariabh.github.io/BellaRoma/index.html": "d54cf8a04393c8bad2e7ac2dc8eafa7ce328edfb",
-    "https://Evamariabh.github.io/BellaRoma/main.486251bedda9e22d.js": "000b1ca1b0ab8c9bd0c1b0f674d7db352358f73b",
+    "https://Evamariabh.github.io/BellaRoma/index.html": "a4d65801a672b35aac43928d14f9f9fe1dbcfddb",
+    "https://Evamariabh.github.io/BellaRoma/main.384810d07d15c2f7.js": "58b5d7439e52c89016d618e8315c6c0e455f943b",
     "https://Evamariabh.github.io/BellaRoma/manifest.webmanifest": "e202c1a0edd4d8d386675dadc1ba607c506cea28",
     "https://Evamariabh.github.io/BellaRoma/polyfills.5c0e5680c3cbc807.js": "97117adb15915c34788583a78b1e9fe1adfd003d",
     "https://Evamariabh.github.io/BellaRoma/runtime.ce27072ee75d7745.js": "c4356a6b3c357041756eed95e711ef7588d4adda",
