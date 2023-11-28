@@ -1,0 +1,156 @@
+{
+  "configVersion": 1,
+  "timestamp": 1701211492658,
+  "index": "https://Evamariabh.github.io/BellaRoma/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Evamariabh.github.io/BellaRoma/568.a0c115d94bbd05cc.js",
+        "https://Evamariabh.github.io/BellaRoma/favicon.ico",
+        "https://Evamariabh.github.io/BellaRoma/index.html",
+        "https://Evamariabh.github.io/BellaRoma/main.486251bedda9e22d.js",
+        "https://Evamariabh.github.io/BellaRoma/manifest.webmanifest",
+        "https://Evamariabh.github.io/BellaRoma/polyfills.5c0e5680c3cbc807.js",
+        "https://Evamariabh.github.io/BellaRoma/runtime.ce27072ee75d7745.js",
+        "https://Evamariabh.github.io/BellaRoma/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": [
+        "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/bootstrap\\/4\\.1\\.3\\/css\\/bootstrap-grid\\.min\\.css",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/animate\\.css\\/4\\.1\\.1\\/animate\\.min\\.css",
+        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrapicons@1\\.11\\.1\\/font\\/bootstrap-icons\\.css"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Evamariabh.github.io/BellaRoma/assets/BLACK.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/BLACKFRIDAY.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/Icon.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/cat1.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/cat1jpeg.jpeg",
+        "https://Evamariabh.github.io/BellaRoma/assets/cat2.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/cat3.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/chanel.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/chanell.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/contact.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/hombre.jpeg",
+        "https://Evamariabh.github.io/BellaRoma/assets/hombre.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/hombre1.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-128x128.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-144x144.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-152x152.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-192x192.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-384x384.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-512x512.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-72x72.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-96x96.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/invierno.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/lancom.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/lancome.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/logo.png",
+        "https://Evamariabh.github.io/BellaRoma/assets/mujer.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per0.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per11.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per2.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per7.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per8.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/per9.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/quienes.jpg",
+        "https://Evamariabh.github.io/BellaRoma/assets/sets.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "data-api",
+      "patterns": [
+        "https:\\/\\/github\\.com\\/Evamariabh\\/PaginaBellaroma\\.git",
+        " https:\\/\\/evamariabh\\.github\\.io\\/PaginaBellaroma\\/",
+        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.3\\.2\\/dist\\/js\\/bootstrap\\.bundle\\.min\\.js"
+      ],
+      "strategy": "freshness",
+      "maxSize": 5,
+      "maxAge": 3000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://Evamariabh.github.io/BellaRoma/568.a0c115d94bbd05cc.js": "96e5fd3c20dff5ce7e7f7396261cd903a8759a8b",
+    "https://Evamariabh.github.io/BellaRoma/assets/BLACK.jpg": "61343b9524862c0a775342bd11015aa614ced4d1",
+    "https://Evamariabh.github.io/BellaRoma/assets/BLACKFRIDAY.jpg": "075fe1f2a60e40e32a5b8934e56d85e99d39a814",
+    "https://Evamariabh.github.io/BellaRoma/assets/Icon.png": "e738a0150af8e1dd2f41f06a01856ddc429215d6",
+    "https://Evamariabh.github.io/BellaRoma/assets/cat1.jpg": "264712138a68247964a75b690b5307971137a825",
+    "https://Evamariabh.github.io/BellaRoma/assets/cat1jpeg.jpeg": "d43da3fb6ba159ced37f507ce1c881f557fadd67",
+    "https://Evamariabh.github.io/BellaRoma/assets/cat2.jpg": "54b9704325b9be739f96ccfb0c60d6785d91cb9f",
+    "https://Evamariabh.github.io/BellaRoma/assets/cat3.jpg": "062b8c6efc9301d712e14d853e30df0a9489817f",
+    "https://Evamariabh.github.io/BellaRoma/assets/chanel.jpg": "a0d885a54e89a1b4b64315b1c5e484b8cfa89b9f",
+    "https://Evamariabh.github.io/BellaRoma/assets/chanell.jpg": "6989890929dfaf2e76b529dce05967d55bf74c0c",
+    "https://Evamariabh.github.io/BellaRoma/assets/contact.jpg": "a0e472e9336e7b3c201962c401110bba0c565ab8",
+    "https://Evamariabh.github.io/BellaRoma/assets/hombre.jpeg": "8653f449b75351c6ffe98e276507c631b54b616e",
+    "https://Evamariabh.github.io/BellaRoma/assets/hombre.jpg": "b4e6d0f113080adf6645e9987c6e46196320d633",
+    "https://Evamariabh.github.io/BellaRoma/assets/hombre1.jpg": "ec898c435db3f90bab52f85a21b19b574ada8a03",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-128x128.png": "b6baeb26d60cd30bf23e2e83c21aa971b26400f8",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-144x144.png": "4fdae23860410f9edce20958294b1694348c2cc3",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-152x152.png": "ba80be8bd909c1f130ee7f93380de38db3d3d6e1",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-192x192.png": "dd936343cdf819c6352c67807b232675a39dea91",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-384x384.png": "11eb0ead52fed79adf8b6f779c6276ba211d486b",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-512x512.png": "7f0dbf3b958e07419103ef3b4c2ddca7f67a705e",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-72x72.png": "f4369ff1bbc184639b9278efa3d111ea977432d0",
+    "https://Evamariabh.github.io/BellaRoma/assets/icons/icon-96x96.png": "89cb22b5dab18dbdf260edb61fde6d4f5e79ea36",
+    "https://Evamariabh.github.io/BellaRoma/assets/invierno.jpg": "3440e357a770b8726a94153e56f702e9742a87e1",
+    "https://Evamariabh.github.io/BellaRoma/assets/lancom.jpg": "fd3e88b26113cd025555a205db98d3ecbfafd5ea",
+    "https://Evamariabh.github.io/BellaRoma/assets/lancome.jpg": "0632c0625e3d85e38f3e84ddc70b5ae1aa417b80",
+    "https://Evamariabh.github.io/BellaRoma/assets/logo.png": "e738a0150af8e1dd2f41f06a01856ddc429215d6",
+    "https://Evamariabh.github.io/BellaRoma/assets/mujer.jpg": "cc50bd296844690488a8a11f879aa1c11e07ba63",
+    "https://Evamariabh.github.io/BellaRoma/assets/per0.jpg": "8a9691041bc17268264266dbae3b9ce0098bf33c",
+    "https://Evamariabh.github.io/BellaRoma/assets/per11.jpg": "bd112d10a23bfc5b4870c2c211b7a26860a7c7fa",
+    "https://Evamariabh.github.io/BellaRoma/assets/per2.jpg": "5fbd8d0b5df23b1bee954c75c51f749d17a57fec",
+    "https://Evamariabh.github.io/BellaRoma/assets/per7.jpg": "41dc3e707219dc7b58d1a353edded2af65514b18",
+    "https://Evamariabh.github.io/BellaRoma/assets/per8.jpg": "cd3c8aac7ad4bf1fca6f07d80b1d43a9b37e00dc",
+    "https://Evamariabh.github.io/BellaRoma/assets/per9.jpg": "55790bc192f5cab4e891ea8cda0e442bd2170a79",
+    "https://Evamariabh.github.io/BellaRoma/assets/quienes.jpg": "9036ab78f1027f62e9eb4d05f4fd7c849f9b5dd9",
+    "https://Evamariabh.github.io/BellaRoma/assets/sets.jpg": "7477ee882e8d405a3e0025059ed03994c377479d",
+    "https://Evamariabh.github.io/BellaRoma/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Evamariabh.github.io/BellaRoma/index.html": "d54cf8a04393c8bad2e7ac2dc8eafa7ce328edfb",
+    "https://Evamariabh.github.io/BellaRoma/main.486251bedda9e22d.js": "000b1ca1b0ab8c9bd0c1b0f674d7db352358f73b",
+    "https://Evamariabh.github.io/BellaRoma/manifest.webmanifest": "e202c1a0edd4d8d386675dadc1ba607c506cea28",
+    "https://Evamariabh.github.io/BellaRoma/polyfills.5c0e5680c3cbc807.js": "97117adb15915c34788583a78b1e9fe1adfd003d",
+    "https://Evamariabh.github.io/BellaRoma/runtime.ce27072ee75d7745.js": "c4356a6b3c357041756eed95e711ef7588d4adda",
+    "https://Evamariabh.github.io/BellaRoma/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
